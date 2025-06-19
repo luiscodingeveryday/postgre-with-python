@@ -7,7 +7,7 @@ Ejemplo práctico del tutorial ["Python Web Apps: Databases and ORMs"](https://w
 ## Características principales
 
 - Conexión segura a PostgreSQL usando variables de entorno
-- Ejemplo CRUD básico (Create, Read, Update, Delete)
+- Ejemplo CRUD básico 
 - Prevención de SQL injection con parámetros parametrizados
 - Estructura lista para escalar a aplicaciones Flask
 
